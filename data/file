@@ -1,0 +1,16 @@
+Date,Vendor,Amount,InvoiceID,PaymentMethod,Category,Notes
+2024-01-01,Airtel,1000,INV001,Credit Card,Telecom,Monthly internet
+2024-01-02,Airtel,1000,INV001,Credit Card,Telecom,Duplicate payment
+2024-01-05,Apple,8200,INV002,Bank Transfer,Hardware,Macbook accessories
+2024-01-06,Apple,300,INV003,Credit Card,Software,App Store purchase
+2024-01-08,Razorpay,9800,INV004,UPI,Payment Gateway,Suspiciously large charge
+2024-01-10,Airtel,1000,INV005,Net Banking,Telecom,Normal bill
+2024-01-11,Zomato,100,INV006,Credit Card,Food,Personal lunch
+2024-01-12,Amazon,2000,INV007,Net Banking,Hardware,Office supplies
+2024-01-13,Amazon,8000,INV008,Credit Card,Hardware,Monitor + keyboard
+2024-01-13,Amazon,8000,INV008,Credit Card,Hardware,Duplication - same invoice
+2024-01-15,Microsoft,4500,INV009,Bank Transfer,Software,MS 365 Annual Plan
+2024-01-16,Google,4200,INV010,UPI,Cloud,Monthly cloud usage
+2024-01-18,Stripe,12000,INV011,Bank Transfer,Payment Gateway,Unusual spike
+2024-01-20,Stripe,2000,INV012,UPI,Payment Gateway,Normal recurring fee
+2024-01-21,Airtel,1010,INV013,Credit Card,Telecom,Outlier by ₹10
